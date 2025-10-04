@@ -1,7 +1,8 @@
-Version: 2.0.4
+Version: 2.0.5
 Released: 2025-10-04
 
 Changes:
 - Fixed OTA update functionality
 - Improved power management
 - Enhanced MQTT connectivity
+- Changed update check to 12h
