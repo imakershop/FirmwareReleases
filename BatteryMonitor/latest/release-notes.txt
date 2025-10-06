@@ -1,5 +1,5 @@
-Version: 2.0.9
-Released: 2025-10-04
+Version: 2.1.0
+Released: 2025-10-06
 
 Changes:
-- Added device identity managment
+- Fixed OTA update bug
