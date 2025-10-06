@@ -1,5 +1,5 @@
-Version: 2.0.8
+Version: 2.0.9
 Released: 2025-10-04
 
 Changes:
-- Fixed HA r1/r2 value ranges
+- Added device identity managment
